@@ -1,0 +1,39 @@
+
+body 
+{	
+	color: #000000;
+	background: #CCCCCC;
+} 
+
+a:link 
+{
+	color:#0000CC
+}
+
+a:hover 
+{
+	color: #0000CC; 
+	background: #00FF00;
+}
+
+a:active  
+{
+	color:#000000; 
+	background:#00FF00;
+}
+
+a:visited {
+	color:#990099
+}
+
+em    {font-family:serif;      font-style:normal; font-weight:normal;                 color:#000066;}
+strong{font-family:serif;      font-style:italic; font-weight:bold;                   color:#000066;}
+pre   {font-family:monospace;  font-style:normal; font-weight:normal;}
+h1    {font-family:sans-serif; font-style:normal; font-weight:bold;   font-size:200%; color:#660066;}
+h2    {font-family:sans-serif; font-style:italic; font-weight:bold;   font-size:150%; color:#660066;}
+h3    {font-family:sans-serif; font-style:normal; font-weight:bold;   font-size:120%; color:#0000FF;}
+h4    {font-family:sans-serif; font-style:italic; font-weight:bold;   font-size:120%; color:#0000FF;}
+h5    {font-family:sans-serif; font-style:normal; font-weight:bold;   font-size:100%; color:#000066;}
+h6    {font-family:sans-serif; font-style:italic; font-weight:bold;   font-size:100%; color:#000066;}
+
+
